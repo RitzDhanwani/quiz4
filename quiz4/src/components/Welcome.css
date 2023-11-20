@@ -1,0 +1,18 @@
+/* components/welcome/Welcome.css */
+.welcome-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .welcome-text {
+    width: 50%;
+  }
+  
+  .welcome-image {
+    width: 50%;
+  }
+  
+  /* You can add more styling based on your design preferences */
+  
