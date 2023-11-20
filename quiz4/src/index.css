@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.offerings{
+  padding: 20px;
+  margin-bottom: 40px; 
+}
+.style{
+  position: absolute;
+  right: 0px;
+}
+
+.use-case-title{
+  letter-spacing: 7px;
+}
